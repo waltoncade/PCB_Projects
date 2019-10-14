@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Cade.PrjPCB]
+   Generated File[Cade.GTO]
+   Generated File[Cade.GTP]
+   Generated File[Cade.GTS]
+   Generated File[Cade.GTL]
+   Generated File[Cade.GBL]
+   Generated File[Cade.GBS]
+   Generated File[Cade.GBP]
+   Generated File[Cade.GBO]
+   Generated File[Cade.GM13]
+   Generated File[Cade.GKO]
+   Generated File[Cade.RUL]
+   Generated File[Cade.EXTREP]
+   Generated File[Cade.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 10:47:04 AM On 9/12/2019
