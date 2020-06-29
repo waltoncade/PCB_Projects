@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC Pin=U1-1
+Added Component: Designator=S?(TL3305AF160QG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://spec_sheets.e-switch.com/specs/P010468.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL3305AF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "612-TL3305AF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=612-TL3305AF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=S?-4
+Added Pin To Net: NetName=NetS?_2 Pin=S?-2
+Added Pin To Net: NetName=NetS?_2 Pin=U1-1
+Added Net: Name=NetS?_2
+Added Member To Class: ClassName=Ornament Member=Component S? Switch

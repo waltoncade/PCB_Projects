@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=IC? Old Footprint=SOT100P160X80-3N New Footprint=PMOS
+Change Component Comment : Designator=IC? Old Comment=SSM3J16FS(TE85L,F) New Comment=PMOS_Transistor
+Change component parameters: Designator = "IC?"; Footprint = "PMOS"; UniqueID = "\QOGTDHYJ"
+Change component parameters. Clean all parameters for all variants

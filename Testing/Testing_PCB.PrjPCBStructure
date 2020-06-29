@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=Top.SchDoc
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Child|SchDesignator=Child|FileName=Test.SchDoc|SymbolType=Normal|RawFileName=Test.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

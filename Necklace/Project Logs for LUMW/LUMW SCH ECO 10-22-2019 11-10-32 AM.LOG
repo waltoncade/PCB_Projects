@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=IC1 Old Footprint=PCBComponent_1 New Footprint=SOTFL95P240X88-3N
+Change Component Comment: Designator=R1 Old Comment=0-100 New Comment=RMCF0402ZT0R00
+Change Component Comment: Designator=IC1 Old Comment=DRV5023 New Comment=TCS40DLR,LF
+Change Pin Designator/Name:  Old Designator=LED1-2 Old Name=A New Designator =K New Name=1
+Change Pin Designator/Name:  Old Designator=R1-1 Old Name=1 New Designator =2 New Name=2

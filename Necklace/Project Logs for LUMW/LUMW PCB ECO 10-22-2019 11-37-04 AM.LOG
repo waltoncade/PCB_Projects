@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R1 Old Comment=RMCF0402ZT0R00 New Comment=0-100
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Member To Class: ClassName=LUMW Member=Component IC1 TCS40DLR,LF
+Added Member To Class: ClassName=LUMW Member=Component R1 0-100

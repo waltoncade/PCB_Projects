@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetIC1_2 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Member To Class: ClassName=LUMW Member=Component IC1 TCS40DLR,LF
+Added Member To Class: ClassName=LUMW Member=Component R1 0-100

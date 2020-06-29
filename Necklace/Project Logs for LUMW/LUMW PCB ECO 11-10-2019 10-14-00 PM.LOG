@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetBH1_3 Pin=C1-1
+Removed Pin From Net: NetName=NetBH1_3 Pin=IC1-3
+Removed Pin From Net: NetName=NetBH1_1 Pin=R2-2
+Removed Member From Class: ClassName=LUMW Member=C1
+Removed Member From Class: ClassName=LUMW Member=IC1
+Removed Member From Class: ClassName=LUMW Member=R2
+Added Component: Designator=S?(RI80SMD0510J)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.comus-intl.com/wp-content/uploads/2018/10/RI-80SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Coto Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RI-80SMD0515-J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "816-RI-80SMD0515-J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=816-RI-80SMD0515-J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBH1_3 Pin=S?-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=S?-1
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=LUMW Member=Component S? RI-80SMD0515-J
